@@ -13,6 +13,8 @@ Backend API for the front-end Slav Photography.
 1. Clone the repo
 2. Run 'npm install' 
 3. Create a '.env' file (see below)
+4. Create a MySQL database called 'slav_photo_api'
+5. Run `database/schema.sql` to create the tables
 4. Run 'npm run dev'
 
 ## Environment Variables
